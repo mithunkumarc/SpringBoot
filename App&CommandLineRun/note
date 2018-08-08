@@ -1,0 +1,4 @@
+Technically there's no difference between the two, both are called at the end of SpringApplication#run. 
+There's only one difference; ApplicationRunner#run is called with ApplicationArguments instead of String[] args.
+
+use run method to run specific task that should run only once and before spring boot stops.
