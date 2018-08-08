@@ -9,7 +9,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
 //@Configuration
-@ComponentScan("com.example.bean")
+//@ComponentScan("com.example.bean")
 @SpringBootApplication
 public class DemoApplication implements CommandLineRunner,ApplicationRunner{
 
