@@ -1,0 +1,6 @@
+getBeanDefinitionNames will be called on ConfigurableApplicationContext to get the names of beans (dependencies) 
+created by Spring conatiner/Factory.
+
+user defined beans also will be listed
+
+objects of beans created outside container will not be included.
