@@ -1,0 +1,9 @@
+create spring starter project 
+boot : 2.0.4
+1.no dependencies added
+2.spring boot application class used as test class
+3.spring boot application class marked as componentScan("com.example.bean")
+4.mark bean(person) as component
+5.no need to mark Spring boot application class as configuration class. 
+6.spring boot app provides context, through which we can ask spring container to provide dependencies.
+Ex : ConfigurableApplicationContext context = SpringApplication.run(DemoApplication.class, args);
