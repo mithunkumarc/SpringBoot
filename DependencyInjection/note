@@ -1,0 +1,6 @@
+Dependency injection though constructor and setter method
+spring started project
+boot : 2.0.4
+spring boot application itself a config file, no @configuration annoation needed
+use @ComponentScan("com.example.bean") to ask spring container to create dependencies.
+inject using autowired annotation
