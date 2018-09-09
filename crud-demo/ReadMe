@@ -27,5 +27,4 @@
 
 9.Note : by default , CrudRepository methods by default transaction enabled, no need to handle transaction.
 
-
-[!alt text](https://raw.githubusercontent.com/mithunkumarc/SpringBoot/blob/master/crud-demo/src/main/resources/static/images/boot.png)
+ <img src="https://raw.githubusercontent.com/mithunkumarc/SpringBoot/blob/master/crud-demo/src/main/resources/static/images/boot.png" width="350" alt="accessibility text">
