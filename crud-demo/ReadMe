@@ -1,0 +1,26 @@
+--mvc crud with thymeleaf--
+
+1.create spring starter project
+
+2.boot 2.0.4, java10
+
+3.project dependencies - web, thymeleaf and MySql
+
+4.application properties
+	only database config needed, not need of view resolver for thymeleaf
+
+5.create static and template files
+
+6.create database in mysql
+
+7.forgot to add dependence jpa, 
+	right click on pom
+	select spring
+	edit starters
+	select jpa
+
+8.important
+	to make thymeleaf to find controllers , package name must be important
+	eg : 
+	spring boot app package name is com.example.demo
+	then, controller package name must be com.example.demo.controller
