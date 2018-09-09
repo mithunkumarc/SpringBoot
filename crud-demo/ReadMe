@@ -24,3 +24,5 @@
 	eg : 
 	spring boot app package name is com.example.demo
 	then, controller package name must be com.example.demo.controller
+
+9.Note : by default , CrudRepository methods by default transaction enabled, no need to handle transaction.
