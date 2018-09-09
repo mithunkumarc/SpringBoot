@@ -26,3 +26,6 @@
 	then, controller package name must be com.example.demo.controller
 
 9.Note : by default , CrudRepository methods by default transaction enabled, no need to handle transaction.
+
+
+[!alt text](https://github.com/mithunkumarc/SpringBoot/blob/master/crud-demo/src/main/resources/static/images/boot.png)
