@@ -1,5 +1,6 @@
-*note : webflux not working under 2.0.4 and java 10, as on 10/9/18
-so using boot 2.0.3 and java 8 (from spring.io)
+*note : webflux not working under 2.0.4, java 10 and spring 5.0.8 , as on 10/9/18
+
+so using boot 2.0.3, java 8 and spring 5.0.7 (downloaded from spring.io)
 
 select web reactive dependency
 
