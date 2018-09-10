@@ -1,0 +1,15 @@
+*note : webflux not working under 2.0.4 and java 10, as on 10/9/18
+so using boot 2.0.3 and java 8 (from spring.io)
+
+select web reactive dependency
+
+router : allows url and map to handler method
+handler : generate response
+
+rest client can be used 
+type request : get
+link : http://localhost:8080/hello
+output : Hello, Spring!
+
+
+source : spring.io guides
