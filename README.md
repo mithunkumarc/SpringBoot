@@ -4,14 +4,12 @@
 source folder structure : 
 boot app must be at parent folder level
 
-com.example
-            MyAppBootApplication.java
-
-com.example.controller
-            Mycontroller.java
-
-com.example.dao
-            MyDao.java
+            com.example
+                        MyAppBootApplication.java
+            com.example.controller
+                        Mycontroller.java
+            com.example.dao
+                        MyDao.java
 
 
 
